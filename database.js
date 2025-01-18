@@ -1,7 +1,7 @@
 import mongoose from 'mongoose';
 
 // const mongodbUri = "mongodb+srv://usama-admin:Ii0rk3YAOblQHMQ6@cluster0.pdjdv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-const mongodbUri = "mongodb+srv://subhan khatri:subhankhatri@gmail.com@cluster0.qnqq0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+const mongodbUri = "mongodb+srv://subhankhatri:subhankhatri@gmail.com@cluster0.qnqq0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 const connectDB = async () => {
     try {
